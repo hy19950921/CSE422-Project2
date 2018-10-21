@@ -1,1 +1,1 @@
-# CSE422-Project2
+# CSE422-Project2 Socket Programming
